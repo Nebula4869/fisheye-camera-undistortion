@@ -1,4 +1,4 @@
-# fisheye_camera_undistortion
+# fisheye-camera-undistortion
 Fisheye camera distortion correction based on opencv's chessboard calibration algorithm
 ### Environment
 
